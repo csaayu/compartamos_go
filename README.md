@@ -1,11 +1,11 @@
 # Go
 
+
 Crud rest con mvc:
 
+- run project: go run .\main.go
+
 1.- Crear solo la base de datos: "compartamos" o ejecutar el siguiente script:
-
-
-
 
 --
 -- Base de datos: `compartamos`
