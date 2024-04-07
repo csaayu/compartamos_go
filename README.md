@@ -2,7 +2,7 @@
 
 Crud rest con mvc:
 
-1.- Crear la base de datos: "compartamos" o ejecutar el siguiente script:
+1.- Crear solo la base de datos: "compartamos" o ejecutar el siguiente script:
 
 
 
